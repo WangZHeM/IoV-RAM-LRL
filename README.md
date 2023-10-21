@@ -7,20 +7,15 @@ IoV-RAM-LRL Experimental实验包括以下文件：
 
 2）analysis_huawei_data.py
 
-
 3）experiment_data.py
-
 
 4）IoV-RAM-LRL.py
 
-
 5）IoV-RAM-LRL-PEAKB.py
 
+6） OPT_VCG_2.py
 
-6) OPT_VCG_2.py
-
-
-7) G_PMRM_PAYMENT.py
+7） G_PMRM_PAYMENT.py
 
 
 8）readdata.py
@@ -34,7 +29,7 @@ IoV-RAM-LRL Experimental实验包括以下文件：
 
 4）IoV-RAM-LRL.py ：IoV-RAM-LRL算法代码
 
-5) IoV-RAM-LRL-PEAKB:IoV-RAM-LRL-PEAKB算法代码
+5） IoV-RAM-LRL-PEAKB:IoV-RAM-LRL-PEAKB算法代码
 
 6）G_PMRM_PAYMENT.py：G_PMRM_PAYMENT算法代码
 
